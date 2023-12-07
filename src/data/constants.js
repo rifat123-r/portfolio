@@ -202,6 +202,7 @@ export const experiences = [
       "Critical Thinking",
     ],
   },
+  /* 
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
@@ -220,6 +221,7 @@ export const experiences = [
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
+  */
 ];
 
 export const education = [
@@ -303,7 +305,7 @@ export const projects = [
     github: "https://github.com/rifat123-r/02-Passion-of-the-Pirates-Game",
     webapp: "https://github.com/dariodaguanno/02-Passion-of-the-Pirates-Game/releases/tag/v1.0.4.1",
   },
-  {
+  /*{
     id: 8,
     title: "Face Recognition",
     date: "Jan 2021",
@@ -315,7 +317,7 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
     webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
+  }, */
 ];
 
 export const TimeLineData = [
